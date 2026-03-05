@@ -1,8 +1,17 @@
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+# Simple Calculator
 
-print("Addition:", num1 + num2)
-print("Subtraction:", num1 - num2)
-print("Multiplication:", num1 * num2)
-print("Division:", num1 / num2)
+This project is a simple calculator developed using Python.  
+It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
+## Features
+- Takes user input
+- Performs basic calculations
+- Displays the result instantly
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Open the file calculator.py
+2. Run the program using Python
+3. Enter two numbers to perform calculations
