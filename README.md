@@ -15,3 +15,5 @@ It allows users to perform basic arithmetic operations like addition, subtractio
 1. Open the file calculator.py
 2. Run the program using Python
 3. Enter two numbers to perform calculations
+## Author
+keerthi
